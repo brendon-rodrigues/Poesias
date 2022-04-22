@@ -1,0 +1,23 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.Main {
+  background-image: url("./pngwing.com (1).png");
+}
+@media (max-width: 400px) {
+  .Title {
+    color: #000;
+    text-align: center;
+    padding: 20px;
+  }
+  .Title2 {
+    text-align: center;
+    padding: 20px;
+  }
+  .Style {
+    border-radius: 12px;
+    padding: 5px;
+    margin: 10px 30px;
+  }
+}
